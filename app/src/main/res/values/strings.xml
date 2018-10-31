@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Preferences</string>
+    <string name="textViewTitle">Shared Preference</string>
+    <string name="editTextName" />
+    <string name="editTextAge" />
+    <string name="textViewEmail" />
+    <string name="editTextPassword" />
+    <string name="buttonSharedPut">Shared Put</string>
+    <string name="buttonSharedGet">Shared Get</string>
+    <string name="textViewInput">Shared Preference</string>
+    <string name="textView" />
+    <string name="textViewPassword" />
+    <string name="textViewEmail" />
+    <string name="buttonSave">Save</string>
+    <string name="textViewGetReference" />
+</resources>
